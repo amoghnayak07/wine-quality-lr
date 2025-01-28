@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.env
+*.csv
+*.txt
+*.names
+*.log
+checkpoints/
+.ipynb_checkpoints/
+*.tmp
+*.temp
+.vscode/
+.tensorflow/
+/node_modules/
